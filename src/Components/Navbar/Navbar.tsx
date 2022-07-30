@@ -100,7 +100,7 @@ const NavBar: FC<IProps> = () => {
 
             <Nav.Item>
               <Nav.Link
-                href="https://blogs.soumya-jit.tech/"
+                href="https://bits-0f-c0de-gilt.vercel.app/"
                 target="_blank"
                 rel="noreferrer"
               >
